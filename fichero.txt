@@ -1,6 +1,12 @@
 Nuevo ficherooooooooooo
 
+<<<<<<< HEAD
 
 
 
 Wellcome
+=======
+Bienvenidos a nucleo
+
+
+>>>>>>> dev
